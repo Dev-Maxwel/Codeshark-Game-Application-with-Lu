@@ -4,5 +4,6 @@ print("Second statement. My lua engine cant be recognized by my environment vari
 --[[first long comment]]
 
 io.write("Prinitng 2")
+io.write("Prinitng 3")
 
 --just to keep up
